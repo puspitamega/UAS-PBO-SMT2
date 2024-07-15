@@ -1,0 +1,5 @@
+com\mycompany\uaspbopuspita\db\NoteAppMenu.class
+com\mycompany\uaspbopuspita\model\Note.class
+com\mycompany\uaspbopuspita\db\DataStorage.class
+com\mycompany\uaspbopuspita\db\NoteService.class
+com\mycompany\uaspbopuspita\db\DatabaseStorage.class
